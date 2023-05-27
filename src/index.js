@@ -5,7 +5,7 @@ import MainScene from "./Scenes/main-scene";
 const GLOBAL_CONFIG = {
   width: 800,
   height: 600,
-}
+};
 
 const config = {
   type: Phaser.AUTO,
